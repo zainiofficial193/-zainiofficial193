@@ -471,13 +471,7 @@ body {
 
 .hobbies-wrapper h2:before {
   content: "";
-  position: absolute;
-  bottom: 0;
-  top:4vw;
-  left: 44.3vw;
-  width: 165px;
-  height: 2px;
-  background: var(--cyan);
+ display:none;
 }
 
 .contact {
@@ -782,4 +776,5 @@ body.elementor-editor-active .titlebg {
   font-size: 5vw;
   font-family: Nova-one;
 }
+
 
