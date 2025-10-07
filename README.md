@@ -1,4 +1,4 @@
 # Zaini Official
 Welcome to my GitHub!  
-I’m a creative web developer passionate about front-end design and digital innovation.  
+Front-End Web Developer | Passionate about design, creativity, and clean code.
 Visit my portfolio → [zainiofficial.netlify.app](https://zainiofficial.netlify.app)
